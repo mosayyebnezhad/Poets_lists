@@ -9,7 +9,7 @@ const geistSans = Geist({
 
 const vazirMtn = Vazirmatn({
 
-  subsets: ["latin"],
+  subsets: ["latin-ext"],
 })
 
 const geistMono = Geist_Mono({
